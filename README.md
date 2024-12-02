@@ -15,7 +15,6 @@ Neural A\* is a novel data-driven search-based planner that consists of a traina
 - For creating datasets used in our experiments, please visit [planning datasets](https://github.com/omron-sinicx/planning-datasets) repository.
 
 ## Getting started
-- Try Neural A* on Google Colab (https://colab.research.google.com/drive/1iRO8Qdjih6ZrDW1ac6MEx6fiGLzAMk1o?usp=sharing#scrollTo=dbe81f3f-6f19-46cc-ad24-74c00151e28f)
 - The code has been tested on Ubuntu >=18.04 as well as WSL2 (Ubuntu 20.04) on Windows 11, with python3 (>=3.8). Planning can be performed only on the CPU, and the use of GPUs is supported for training/evaluating Neural A\* models. We also provide Dockerfile and docker-compose.yaml to replicate our setup.
 
 ### Installation (venv)
